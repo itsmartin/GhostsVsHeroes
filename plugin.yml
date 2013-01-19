@@ -1,0 +1,5 @@
+name: GhostsVsHeroes
+main: com.martinbrook.ghostsvsheroes.GhostsVsHeroes
+version: 0.1
+description: Ghosts vs Heroes UHC game
+commands:
